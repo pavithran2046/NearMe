@@ -35,8 +35,8 @@ Main
 <center>
 <body bgcolor="grey">
     <h1>Image Mapping</h1>
-    <h2>VisHinu H(212223220124)</h2>
-    <img src="map.png" usemap="#image-map">
+    <h2>pavithran S(212223240113)</h2>
+    <img src="c:\Users\admin\Pictures\Screenshots\Screenshot 2024-04-24 153047.png" usemap="#image-map">
 
     <map name="image-map">
         <area target="" alt="M M Hospital" title="M M Hospital" href="hos.html" coords="154,512,55" shape="circle">
@@ -258,8 +258,10 @@ body {
   
 ```
 ## OUTPUT
+
 ##1
-![Screenshot 2024-04-22 213030](https://github.com/VisHinu24/NearMe/assets/144244396/c5ae170e-489c-43d0-9d5a-362ffa894979)
+![Screenshot 2024-04-24 154553](https://github.com/pavithran2046/NearMe/assets/139334834/67fdc314-7f15-46bd-99ed-82deacdef160)
+
 
 ##2
 ![Screenshot 2024-04-22 213038](https://github.com/VisHinu24/NearMe/assets/144244396/d862a62e-9d0c-4b08-a0f4-120ceac4f32e)
@@ -276,6 +278,8 @@ body {
 ##6
 
 ![Screenshot 2024-04-22 213112](https://github.com/VisHinu24/NearMe/assets/144244396/677cf4a1-0d20-4b31-a7be-359da486de2f)
+
+
 
 
 
